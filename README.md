@@ -2,7 +2,7 @@
 
 # Isometric Tilemap Example
 
-Este projeto é um exemplo de tilemap isométrico em C++ usando OpenGL, GLFW, GLAD e GLM. O personagem pode ser movido pelo mapa, e há suporte para tiles não caminháveis definidos por arquivo externo.
+Este projeto é um exemplo de tilemap isométrico em C++ usando OpenGL, GLFW, GLAD e GLM. O personagem pode ser movido pelo mapa definido por arquivo, e há suporte para tiles não caminháveis igualmente definidos por arquivo externo.
 
 ## Funcionalidades
 
